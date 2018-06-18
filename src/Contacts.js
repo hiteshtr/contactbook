@@ -2,11 +2,7 @@ import React, { Component } from 'react';
 import './Contacts.css';
 
 class Contacts extends Component {
-  constructor(props) {
-    super(props);
-  }
   render() {
-    console.log(this.props.detail);
     return (
       <tr>
         <th scope="row">{this.props.indexVal+1}</th>
