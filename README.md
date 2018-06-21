@@ -11,3 +11,7 @@ The basic structure of this app is created by using create-react-app project fro
 This folder contains all the necessary code of this application
 
 ---
+-## Hosted Link
+-
+-Following is the hosted link of this application:
+-[Heroku App](https://contactbookhit.herokuapp.com/)
